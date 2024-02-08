@@ -214,6 +214,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6104719227127674220, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8525d11c582ea454b8ba0f715abee404, type: 3}
     - target: {fileID: 7534284826354329748, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
       propertyPath: m_Name
       value: grid elem (2)
@@ -456,6 +460,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6104719227127674220, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bffba4bbda6cfaa449009c402a6948b8, type: 3}
     - target: {fileID: 7534284826354329748, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
       propertyPath: m_Name
       value: grid elem (4)
@@ -774,6 +782,18 @@ MonoBehaviour:
             m_IntArgument: 1
             m_FloatArgument: 0
             m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
+        - m_Target: {fileID: 1714554037}
+          m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+          m_MethodName: AnimationSceneLoader
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: burpee
             m_BoolArgument: 0
           m_CallState: 1
 --- !u!224 &486985204 stripped
@@ -1235,6 +1255,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6104719227127674220, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4ac1dd6d78f3c9445aac9933305ba073, type: 3}
     - target: {fileID: 7534284826354329748, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
       propertyPath: m_Name
       value: grid elem (1)
@@ -1747,6 +1771,18 @@ MonoBehaviour:
             m_IntArgument: 1
             m_FloatArgument: 0
             m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
+        - m_Target: {fileID: 1714554037}
+          m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+          m_MethodName: AnimationSceneLoader
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: silly dancing
             m_BoolArgument: 0
           m_CallState: 1
 --- !u!1 &1442883662
@@ -2327,6 +2363,18 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 1
+        - m_Target: {fileID: 1714554037}
+          m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+          m_MethodName: AnimationSceneLoader
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: cross punch
+            m_BoolArgument: 0
+          m_CallState: 1
 --- !u!1 &1755352209 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5220091066233668646, guid: c286b539a548c9949951249634555a3a, type: 3}
@@ -2359,6 +2407,18 @@ MonoBehaviour:
             m_IntArgument: 1
             m_FloatArgument: 0
             m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
+        - m_Target: {fileID: 1714554037}
+          m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+          m_MethodName: AnimationSceneLoader
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: jumping_jacks
             m_BoolArgument: 0
           m_CallState: 1
 --- !u!1 &1815435974
@@ -2554,6 +2614,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6104719227127674220, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b29a54071c4b7ab42b9d3ccb106a7bca, type: 3}
     - target: {fileID: 7534284826354329748, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
       propertyPath: m_Name
       value: grid elem (3)
@@ -3120,6 +3184,18 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 1
+        - m_Target: {fileID: 1714554037}
+          m_TargetAssemblyTypeName: LoadScene, Assembly-CSharp
+          m_MethodName: AnimationSceneLoader
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: bicep_curl
+            m_BoolArgument: 0
+          m_CallState: 1
 --- !u!1001 &7730209914211690169
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3211,6 +3287,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6104719227127674220, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e1fb4ccde501c3a4e9627c4084b6e489, type: 3}
     - target: {fileID: 7534284826354329748, guid: a5d69fd8fb9cc014ea602a106d45d8cc, type: 3}
       propertyPath: m_Name
       value: grid elem
